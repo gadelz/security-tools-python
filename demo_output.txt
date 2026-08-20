@@ -1,0 +1,8 @@
+╔══════════════════════════════════════════════════════════════╗
+║           SECURITY TOOLS PYTHON - DEMO VIDEO               ║
+║           Recording in 3 seconds...                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+TERM environment variable not set.
+🎬 DEMO START - Fri Aug 21 01:33:08 AM WIB 2026
+
